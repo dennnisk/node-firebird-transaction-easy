@@ -9,7 +9,11 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennnisk/node-firebird-transaction-easy.git"
+  },
+  "keywords": ["node-firebird", "typescript"],
   "author": "",
   "license": "ISC",
   "dependencies": {
